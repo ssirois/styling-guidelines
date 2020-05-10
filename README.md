@@ -3,7 +3,7 @@
 ## Why
 
 * Readability
-* Maintenability
+* Maintainability
 * Modularity
 * Scalability
 
@@ -13,11 +13,12 @@ Readability is the ease with which a reader can understand a written text. Used 
 
 See: https://en.wikipedia.org/wiki/Readability
 
-### Maintenability
+### Maintainability
 
 Maintainability is the ease with which a product can be maintained in order to, but not restricted to:
-* correct defects or their cause,
-* repair or replace faulty or worn-out components without having to replace still working parts,
+
+* fix bugs,
+* repair or replace faulty or outdated components without having to replace still working parts,
 * meet new requirements, or
 * make future maintenance easier
 
