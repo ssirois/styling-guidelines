@@ -1,4 +1,14 @@
 # Styling Guidelines
+:lang:              en
+:encoding:          utf-8
+:author:            Patrick P. Henley
+:email:             patrick.p.henley@gmail.com
+:scribe:            Samuel D. Sirois
+:scribe-email:      samuel@sirois.info
+:description:       A set of guidelines to use to get readable, maintainable, modular and scalable stylesheets.
+:keywords:          best pratices, css, guidelines, integration, stylesheet
+:page-description:  {description}
+:page-keywords:     {keywords}
 
 ## Why
 
