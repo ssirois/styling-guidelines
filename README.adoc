@@ -3,10 +3,14 @@
 :encoding:          utf-8
 :author:            Patrick P. Henley
 :email:             patrick.p.henley@gmail.com
+:github-alias:        ab18556
+:author-homepage:     https://github.com/ab18556/
 :scribe:            Samuel D. Sirois
 :scribe-email:      samuel@sirois.info
-:description:       A set of guidelines to use to get readable, maintainable, modular and scalable stylesheets.
-:keywords:          best pratices, css, guidelines, integration, stylesheet
+:scribe-github-alias: ssirois
+:scribe-homepage:     http://samuel.sirois.info/
+:description:       A set of guidelines to use to get readable, maintainable, modular and scalable style sheets.
+:keywords:          best practices, CSS, guidelines, integration, style sheet
 :page-description:  {description}
 :page-keywords:     {keywords}
 
@@ -19,7 +23,7 @@
 
 ### Readability
 
-Readability is the ease with which a reader can understand a written text. Used within the domain of computer science, it's the quality of a code file that allows users to easily understand the logic. Things such as choice data structures, choice of names, and formating conventions influences the readability quality. footnote:[https://en.wikipedia.org/wiki/Readability]
+Readability is the ease with which a reader can understand a written text. Used within the domain of computer science, it's the quality of a code file that allows users to easily understand the logic. Things such as choice data structures, choice of names, and formatting conventions influences the readability quality. footnote:[https://en.wikipedia.org/wiki/Readability]
 
 ### Maintainability
 
@@ -39,3 +43,9 @@ In modular programming, *standardized units* are independent, interchangeable *m
 ### Scalability
 
 The ability of a system to adapt and being easily expanded or upgraded on demand. footnote:[https://www.merriam-webster.com/dictionary/scalability]
+
+## Who
+
+Guidelines, practices, rules, and overall ideas presented here were brought together by {author-homepage}[{author}] (a.k.a. https://github.com/{github-alias}[{github-alias}]). It represents his own styling guide used daily and fine-tuned, refined, polished and refactored over the years.
+
+This document has been edited and formatted by {scribe-homepage}[{scribe}] (a.k.a. https://github.com/{scribe-github-alias}[{scribe-github-alias}]).
