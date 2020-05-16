@@ -14,6 +14,10 @@
 :page-description:  {description}
 :page-keywords:     {keywords}
 
+# Target Audience
+
+This document is aimed at front-end developers who want to become more effective and more productive with the way to write and organize their style sheets. While author expects the reader to **keep an open mind** (and experience those guidelines as a whole at least once without adaptation), the reader **must** use his•her own judgement and are encouraged use those guidelines as a foundation for their own adapted guidelines in a pragmatic fashion.
+
 ## Why
 
 * Readability
